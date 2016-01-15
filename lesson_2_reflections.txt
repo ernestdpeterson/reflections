@@ -20,4 +20,13 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
     They give you a visual representation of the conection flow of the commits.
     
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+    The two branches are interlieved. 
+    
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+    The automatic is fast and eficient but sometime runs into truble when it 
+    can't resolve a conflict.
+    
 
