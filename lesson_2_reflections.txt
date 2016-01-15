@@ -8,4 +8,8 @@ What value do you think it offers?
     all the commit points as metadata so the staging area might be for monitoring
     files to commit.
     
+How can you use the staging area to make sure you have one commit per logical 
+change?
+    By verifying that you have only added the file with one logical change.
+    
 
