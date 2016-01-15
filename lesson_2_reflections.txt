@@ -2,4 +2,10 @@ What happens when you initialize a repository? Why do you deed to do it?
     It creates a metadata file so you can track chainges to the files you want 
     to track
     
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+    The working dir is a folder holding all the files. The repository is holing
+    all the commit points as metadata so the staging area might be for monitoring
+    files to commit.
+    
 
