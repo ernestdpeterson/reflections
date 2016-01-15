@@ -12,4 +12,12 @@ How can you use the staging area to make sure you have one commit per logical
 change?
     By verifying that you have only added the file with one logical change.
     
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+    Any time you want to create an alternate version of what you are working on
+    but still have the original. Branches alow for multiple working versions.
+    
+How do the diagrams help you visualize the branch structure?
+    They give you a visual representation of the conection flow of the commits.
+    
 
