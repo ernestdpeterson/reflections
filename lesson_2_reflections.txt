@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you deed to do it?
+    It creates a metadata file so you can track chainges to the files you want 
+    to track
+    
+
