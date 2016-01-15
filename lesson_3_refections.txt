@@ -1,2 +1,16 @@
-When would you want to create a remote repository rather than keeping all our work localy?
-  When you want people to work on your project but don't have you computer set up as a server.
+When would you want to create a remote repository rather than keeping all our 
+work localy?
+    When you want people to work on your project but don't have you computer set 
+    up as a server.
+    
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+    Forks are clones on the github site of someone elses work. 
+    Clones are clones on a local machine.
+    Branches are different pathes that a commit tree has taken.
+    Forks are for modifying others work that you don't have direct access too. 
+    Clones are for modifying on your computer.
+    Branches are for exploring diffent concepts that you don't whant in the main
+    branch.
+    
+
