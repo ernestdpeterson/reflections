@@ -29,4 +29,9 @@ manually?
     The automatic is fast and eficient but sometime runs into truble when it 
     can't resolve a conflict.
     
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+    The purpose of repositories is version control. You wouldn't have control
+    if Git had control.
+    
 
